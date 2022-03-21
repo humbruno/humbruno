@@ -10,8 +10,6 @@
 
 ### 🛠 &nbsp;My Stack
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;
 ![React](https://img.icons8.com/officel/40/000000/react.png)&nbsp;
