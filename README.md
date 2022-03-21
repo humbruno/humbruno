@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions. Currently I am in love with frontend web development!\
 ✍️ &nbsp;In my free time, I enjoy the occasional gaming session, as well as surfing.\
-✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/humbruno">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humbrunolayout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbruno"/>
 </a>
 </p>
 
