@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions. Currently I am in love with frontend web development!\
 ✍️ &nbsp;In my free time, I enjoy the occasional gaming session, as well as surfing.\
-✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -12,7 +12,7 @@
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;
-![React](https://img.icons8.com/office/16/000000/react.png)&nbsp;
+![React](https://img.icons8.com/officel/16/000000/react.png)&nbsp;
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)\
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
