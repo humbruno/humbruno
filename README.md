@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/humbruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbruno&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbruno&layout=compact&theme=dracula"/>
 </a>
 </p>
 
