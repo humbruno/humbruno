@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions. Currently I am in love with frontend web development!\
-✍️ &nbsp;In my free time, I enjoy the occasional gaming session, as well as surfing.\
 ✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
