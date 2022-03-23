@@ -7,12 +7,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;My Stack
+### 🛠 &nbsp;My Skills
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;
 ![React](https://img.icons8.com/officel/40/000000/react.png)&nbsp;
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)\
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png)&nbsp;
