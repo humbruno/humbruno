@@ -1,29 +1,5 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Bruno -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions. Currently I am in love with frontend web development!\
-✉️ &nbsp;You can shoot me an email at hsbruno1@gmail.com!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;My Skills
-
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;
-![React](https://img.icons8.com/officel/40/000000/react.png)&nbsp;
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
-![CSS](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
-![SCSS](https://img.icons8.com/color/48/000000/sass.png)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/humbruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbruno&layout=compact&theme=dracula"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
